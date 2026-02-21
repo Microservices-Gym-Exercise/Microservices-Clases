@@ -1,0 +1,15 @@
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\ClasesApplication.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\controller\ClaseController.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\DataLoader.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\exception\GlobalExceptionHandler.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\exception\InvalidEntityException.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\exception\ResourceNotFoundException.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\exception\ServiceUnavailableException.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\model\Clase.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\model\ClaseId.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\model\EntrenadorId.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\model\EquipoId.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\model\Horario.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\model\MiembroId.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\repository\ClaseRepository.java
+C:\Universidad\Semestre IX\Microservicios\Microservices-GYM\microservicio-clases\src\main\java\co\analisys\clases\service\ClaseService.java

@@ -1,0 +1,16 @@
+co\analisys\clases\controller\ClaseController.class
+co\analisys\clases\model\Clase.class
+co\analisys\clases\exception\ResourceNotFoundException.class
+co\analisys\clases\model\EntrenadorId.class
+co\analisys\clases\exception\ServiceUnavailableException.class
+co\analisys\clases\exception\InvalidEntityException.class
+co\analisys\clases\ClasesApplication.class
+co\analisys\clases\model\ClaseId.class
+co\analisys\clases\repository\ClaseRepository.class
+co\analisys\clases\model\Horario.class
+co\analisys\clases\exception\GlobalExceptionHandler$ErrorResponse.class
+co\analisys\clases\service\ClaseService.class
+co\analisys\clases\DataLoader.class
+co\analisys\clases\exception\GlobalExceptionHandler.class
+co\analisys\clases\model\MiembroId.class
+co\analisys\clases\model\EquipoId.class
